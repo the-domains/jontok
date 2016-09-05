@@ -1,4 +1,3 @@
-layout_spectrum: 0.45569359161891043
 typography_spectrum: 0.14292855863459408
 color:
   brandStrength: 0.8615254752803594
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.45569359161891043
 name: Jontok
+title: Mosquito Kueh
